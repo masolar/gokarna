@@ -365,6 +365,7 @@ table td {
   border-radius: 50%;
   height: auto;
   object-fit: cover;
+  object-position: 50% 20%;
 }
 
 /* Avatar sizes (default is M) - XS, S, M, L, XL */
